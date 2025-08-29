@@ -1,0 +1,214 @@
+{
+  "regulars": {
+    "-ar": {
+      "present": {
+        "yo": "o",
+        "tú": "as",
+        "él/ella": "a",
+        "nosotros": "amos",
+        "vosotros": "áis",
+        "ellos/ellas/ustedes": "an"
+      },
+      "preterite": {
+        "yo": "é",
+        "tú": "aste",
+        "él/ella": "ó",
+        "nosotros": "amos",
+        "vosotros": "asteis",
+        "ellos/ellas/ustedes": "aron"
+      },
+      "imperfect": {
+        "yo": "aba",
+        "tú": "abas",
+        "él/ella": "aba",
+        "nosotros": "ábamos",
+        "vosotros": "abais",
+        "ellos/ellas/ustedes": "aban"
+      }
+    },
+    "-er": {
+      "present": {
+        "yo": "o",
+        "tú": "es",
+        "él/ella": "e",
+        "nosotros": "emos",
+        "vosotros": "éis",
+        "ellos/ellas/ustedes": "en"
+      },
+      "preterite": {
+        "yo": "í",
+        "tú": "iste",
+        "él/ella": "ió",
+        "nosotros": "imos",
+        "vosotros": "isteis",
+        "ellos/ellas/ustedes": "ieron"
+      },
+      "imperfect": {
+        "yo": "ía",
+        "tú": "ías",
+        "él/ella": "ía",
+        "nosotros": "íamos",
+        "vosotros": "íais",
+        "ellos/ellas/ustedes": "ían"
+      }
+    },
+    "-ir": {
+      "present": {
+        "yo": "o",
+        "tú": "es",
+        "él/ella": "e",
+        "nosotros": "imos",
+        "vosotros": "ís",
+        "ellos/ellas/ustedes": "en"
+      },
+      "preterite": {
+        "yo": "í",
+        "tú": "iste",
+        "él/ella": "ió",
+        "nosotros": "imos",
+        "vosotros": "isteis",
+        "ellos/ellas/ustedes": "ieron"
+      },
+      "imperfect": {
+        "yo": "ía",
+        "tú": "ías",
+        "él/ella": "ía",
+        "nosotros": "íamos",
+        "vosotros": "íais",
+        "ellos/ellas/ustedes": "ían"
+      }
+    }
+  },
+  "irregulars": {
+    "ser": {
+      "present": {
+        "yo": "soy",
+        "tú": "eres",
+        "él/ella": "es",
+        "nosotros": "somos",
+        "vosotros": "sois",
+        "ellos/ellas/ustedes": "son"
+      },
+      "preterite": {
+        "yo": "fui",
+        "tú": "fuiste",
+        "él/ella": "fue",
+        "nosotros": "fuimos",
+        "vosotros": "fuisteis",
+        "ellos/ellas/ustedes": "fueron"
+      },
+      "imperfect": {
+        "yo": "era",
+        "tú": "eras",
+        "él/ella": "era",
+        "nosotros": "éramos",
+        "vosotros": "erais",
+        "ellos/ellas/ustedes": "eran"
+      }
+    },
+    "estar": {
+      "present": {
+        "yo": "estoy",
+        "tú": "estás",
+        "él/ella": "está",
+        "nosotros": "estamos",
+        "vosotros": "estáis",
+        "ellos/ellas/ustedes": "están"
+      },
+      "preterite": {
+        "yo": "estuve",
+        "tú": "estuviste",
+        "él/ella": "estuvo",
+        "nosotros": "estuvimos",
+        "vosotros": "estuvisteis",
+        "ellos/ellas/ustedes": "estuvieron"
+      },
+      "imperfect": {
+        "yo": "estaba",
+        "tú": "estabas",
+        "él/ella": "estaba",
+        "nosotros": "estábamos",
+        "vosotros": "estabais",
+        "ellos/ellas/ustedes": "estaban"
+      }
+    },
+    "tener": {
+      "present": {
+        "yo": "tengo",
+        "tú": "tienes",
+        "él/ella": "tiene",
+        "nosotros": "tenemos",
+        "vosotros": "tenéis",
+        "ellos/ellas/ustedes": "tienen"
+      },
+      "preterite": {
+        "yo": "tuve",
+        "tú": "tuviste",
+        "él/ella": "tuvo",
+        "nosotros": "tuvimos",
+        "vosotros": "tuvisteis",
+        "ellos/ellas/ustedes": "tuvieron"
+      },
+      "imperfect": {
+        "yo": "tenía",
+        "tú": "tenías",
+        "él/ella": "tenía",
+        "nosotros": "teníamos",
+        "vosotros": "teníais",
+        "ellos/ellas/ustedes": "tenían"
+      }
+    },
+    "ir": {
+      "present": {
+        "yo": "voy",
+        "tú": "vas",
+        "él/ella": "va",
+        "nosotros": "vamos",
+        "vosotros": "vais",
+        "ellos/ellas/ustedes": "van"
+      },
+      "preterite": {
+        "yo": "fui",
+        "tú": "fuiste",
+        "él/ella": "fue",
+        "nosotros": "fuimos",
+        "vosotros": "fuisteis",
+        "ellos/ellas/ustedes": "fueron"
+      },
+      "imperfect": {
+        "yo": "iba",
+        "tú": "ibas",
+        "él/ella": "iba",
+        "nosotros": "íbamos",
+        "vosotros": "ibais",
+        "ellos/ellas/ustedes": "iban"
+      }
+    },
+    "hacer": {
+      "present": {
+        "yo": "hago",
+        "tú": "haces",
+        "él/ella": "hace",
+        "nosotros": "hacemos",
+        "vosotros": "hacéis",
+        "ellos/ellas/ustedes": "hacen"
+      },
+      "preterite": {
+        "yo": "hice",
+        "tú": "hiciste",
+        "él/ella": "hizo",
+        "nosotros": "hicimos",
+        "vosotros": "hicisteis",
+        "ellos/ellas/ustedes": "hicieron"
+      },
+      "imperfect": {
+        "yo": "hacía",
+        "tú": "hacías",
+        "él/ella": "hacía",
+        "nosotros": "hacíamos",
+        "vosotros": "hacíais",
+        "ellos/ellas/ustedes": "hacían"
+      }
+    }
+  }
+}
