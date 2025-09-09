@@ -276,20 +276,20 @@
     },
     "poder": {
       "present": {
-        "yo": "podo",
-        "tú": "podes",
-        "él/ella": "pode",
+        "yo": "puedo",
+        "tú": "puedes",
+        "él/ella": "puede",
         "nosotros": "podemos",
         "vosotros": "podéis",
-        "ellos/ellas/ustedes": "poden"
+        "ellos/ellas/ustedes": "pueden"
       },
       "preterite": {
-        "yo": "podí",
-        "tú": "podiste",
-        "él/ella": "podió",
-        "nosotros": "podimos",
-        "vosotros": "podisteis",
-        "ellos/ellas/ustedes": "podieron"
+        "yo": "pude",
+        "tú": "pudiste",
+        "él/ella": "pudo",
+        "nosotros": "pudimos",
+        "vosotros": "pudisteis",
+        "ellos/ellas/ustedes": "pudieron"
       },
       "imperfect": {
         "yo": "podía",
@@ -300,30 +300,30 @@
         "ellos/ellas/ustedes": "podían"
       },
       "future": {
-        "yo": "poderé",
-        "tú": "poderás",
-        "él/ella": "poderá",
-        "nosotros": "poderemos",
-        "vosotros": "poderéis",
-        "ellos/ellas/ustedes": "poderán"
+        "yo": "podré",
+        "tú": "podrás",
+        "él/ella": "podrá",
+        "nosotros": "podremos",
+        "vosotros": "podréis",
+        "ellos/ellas/ustedes": "podrán"
       }
     },
     "decir": {
       "present": {
-        "yo": "deco",
-        "tú": "deces",
-        "él/ella": "dece",
+        "yo": "digo",
+        "tú": "dices",
+        "él/ella": "dice",
         "nosotros": "decimos",
         "vosotros": "decís",
-        "ellos/ellas/ustedes": "decen"
+        "ellos/ellas/ustedes": "dicen"
       },
       "preterite": {
-        "yo": "decí",
-        "tú": "deciste",
-        "él/ella": "deció",
-        "nosotros": "decimos",
-        "vosotros": "decisteis",
-        "ellos/ellas/ustedes": "decieron"
+        "yo": "dije",
+        "tú": "dijiste",
+        "él/ella": "dijo",
+        "nosotros": "dijimos",
+        "vosotros": "dijisteis",
+        "ellos/ellas/ustedes": "dijeron"
       },
       "imperfect": {
         "yo": "decía",
@@ -334,38 +334,38 @@
         "ellos/ellas/ustedes": "decían"
       },
       "future": {
-        "yo": "deciré",
-        "tú": "decirás",
-        "él/ella": "decirá",
-        "nosotros": "deciremos",
-        "vosotros": "deciréis",
-        "ellos/ellas/ustedes": "decirán"
+        "yo": "diré",
+        "tú": "dirás",
+        "él/ella": "dirá",
+        "nosotros": "diremos",
+        "vosotros": "diréis",
+        "ellos/ellas/ustedes": "dirán"
       }
     },
     "ver": {
       "present": {
-        "yo": "vo",
+        "yo": "veo",
         "tú": "ves",
         "él/ella": "ve",
         "nosotros": "vemos",
-        "vosotros": "véis",
+        "vosotros": "veis",
         "ellos/ellas/ustedes": "ven"
       },
       "preterite": {
-        "yo": "ví",
+        "yo": "vi",
         "tú": "viste",
-        "él/ella": "vió",
+        "él/ella": "vio",
         "nosotros": "vimos",
         "vosotros": "visteis",
         "ellos/ellas/ustedes": "vieron"
       },
       "imperfect": {
-        "yo": "vía",
-        "tú": "vías",
-        "él/ella": "vía",
-        "nosotros": "víamos",
-        "vosotros": "víais",
-        "ellos/ellas/ustedes": "vían"
+        "yo": "veía",
+        "tú": "veías",
+        "él/ella": "veía",
+        "nosotros": "veíamos",
+        "vosotros": "veíais",
+        "ellos/ellas/ustedes": "veían"
       },
       "future": {
         "yo": "veré",
@@ -378,20 +378,20 @@
     },
     "dar": {
       "present": {
-        "yo": "do",
+        "yo": "doy",
         "tú": "das",
         "él/ella": "da",
         "nosotros": "damos",
-        "vosotros": "dáis",
+        "vosotros": "dais",
         "ellos/ellas/ustedes": "dan"
       },
       "preterite": {
-        "yo": "dé",
-        "tú": "daste",
-        "él/ella": "dó",
-        "nosotros": "damos",
-        "vosotros": "dasteis",
-        "ellos/ellas/ustedes": "daron"
+        "yo": "di",
+        "tú": "diste",
+        "él/ella": "dio",
+        "nosotros": "dimos",
+        "vosotros": "disteis",
+        "ellos/ellas/ustedes": "dieron"
       },
       "imperfect": {
         "yo": "daba",
@@ -412,7 +412,7 @@
     },
     "saber": {
       "present": {
-        "yo": "sabo",
+        "yo": "sé",
         "tú": "sabes",
         "él/ella": "sabe",
         "nosotros": "sabemos",
@@ -420,12 +420,12 @@
         "ellos/ellas/ustedes": "saben"
       },
       "preterite": {
-        "yo": "sabí",
-        "tú": "sabiste",
-        "él/ella": "sabió",
-        "nosotros": "sabimos",
-        "vosotros": "sabisteis",
-        "ellos/ellas/ustedes": "sabieron"
+        "yo": "supe",
+        "tú": "supiste",
+        "él/ella": "supo",
+        "nosotros": "supimos",
+        "vosotros": "supisteis",
+        "ellos/ellas/ustedes": "supieron"
       },
       "imperfect": {
         "yo": "sabía",
@@ -436,30 +436,30 @@
         "ellos/ellas/ustedes": "sabían"
       },
       "future": {
-        "yo": "saberé",
-        "tú": "saberás",
-        "él/ella": "saberá",
-        "nosotros": "saberemos",
-        "vosotros": "saberéis",
-        "ellos/ellas/ustedes": "saberán"
+        "yo": "sabré",
+        "tú": "sabrás",
+        "él/ella": "sabrá",
+        "nosotros": "sabremos",
+        "vosotros": "sabréis",
+        "ellos/ellas/ustedes": "sabrán"
       }
     },
     "querer": {
       "present": {
-        "yo": "quero",
-        "tú": "queres",
-        "él/ella": "quere",
+        "yo": "quiero",
+        "tú": "quieres",
+        "él/ella": "quiere",
         "nosotros": "queremos",
         "vosotros": "queréis",
-        "ellos/ellas/ustedes": "queren"
+        "ellos/ellas/ustedes": "quieren"
       },
       "preterite": {
-        "yo": "querí",
-        "tú": "queriste",
-        "él/ella": "querió",
-        "nosotros": "querimos",
-        "vosotros": "queristeis",
-        "ellos/ellas/ustedes": "querieron"
+        "yo": "quise",
+        "tú": "quisiste",
+        "él/ella": "quiso",
+        "nosotros": "quisimos",
+        "vosotros": "quisisteis",
+        "ellos/ellas/ustedes": "quisieron"
       },
       "imperfect": {
         "yo": "quería",
@@ -470,12 +470,12 @@
         "ellos/ellas/ustedes": "querían"
       },
       "future": {
-        "yo": "quereré",
-        "tú": "quererás",
-        "él/ella": "quererá",
-        "nosotros": "quereremos",
-        "vosotros": "quereréis",
-        "ellos/ellas/ustedes": "quererán"
+        "yo": "querré",
+        "tú": "querrás",
+        "él/ella": "querrá",
+        "nosotros": "querremos",
+        "vosotros": "querréis",
+        "ellos/ellas/ustedes": "querrán"
       }
     },
     "llegar": {
@@ -488,7 +488,7 @@
         "ellos/ellas/ustedes": "llegan"
       },
       "preterite": {
-        "yo": "llegé",
+        "yo": "llegué",
         "tú": "llegaste",
         "él/ella": "llegó",
         "nosotros": "llegamos",
@@ -582,7 +582,7 @@
     },
     "poner": {
       "present": {
-        "yo": "pono",
+        "yo": "pongo",
         "tú": "pones",
         "él/ella": "pone",
         "nosotros": "ponemos",
@@ -590,12 +590,12 @@
         "ellos/ellas/ustedes": "ponen"
       },
       "preterite": {
-        "yo": "poní",
-        "tú": "poniste",
-        "él/ella": "ponió",
-        "nosotros": "ponimos",
-        "vosotros": "ponisteis",
-        "ellos/ellas/ustedes": "ponieron"
+        "yo": "puse",
+        "tú": "pusiste",
+        "él/ella": "puso",
+        "nosotros": "pusimos",
+        "vosotros": "pusisteis",
+        "ellos/ellas/ustedes": "pusieron"
       },
       "imperfect": {
         "yo": "ponía",
@@ -606,12 +606,12 @@
         "ellos/ellas/ustedes": "ponían"
       },
       "future": {
-        "yo": "poneré",
-        "tú": "ponerás",
-        "él/ella": "ponerá",
-        "nosotros": "poneremos",
-        "vosotros": "poneréis",
-        "ellos/ellas/ustedes": "ponerán"
+        "yo": "pondré",
+        "tú": "pondrás",
+        "él/ella": "pondrá",
+        "nosotros": "pondremos",
+        "vosotros": "pondréis",
+        "ellos/ellas/ustedes": "pondrán"
       }
     },
     "parecer": {
@@ -693,11 +693,11 @@
       },
       "preterite": {
         "yo": "creí",
-        "tú": "creiste",
-        "él/ella": "creió",
-        "nosotros": "creimos",
-        "vosotros": "creisteis",
-        "ellos/ellas/ustedes": "creieron"
+        "tú": "creíste",
+        "él/ella": "creyó",
+        "nosotros": "creímos",
+        "vosotros": "creísteis",
+        "ellos/ellas/ustedes": "creyeron"
       },
       "imperfect": {
         "yo": "creía",
@@ -820,20 +820,20 @@
     },
     "seguir": {
       "present": {
-        "yo": "seguo",
-        "tú": "segues",
-        "él/ella": "segue",
+        "yo": "sigo",
+        "tú": "sigues",
+        "él/ella": "sigue",
         "nosotros": "seguimos",
         "vosotros": "seguís",
-        "ellos/ellas/ustedes": "seguen"
+        "ellos/ellas/ustedes": "siguen"
       },
       "preterite": {
         "yo": "seguí",
         "tú": "seguiste",
-        "él/ella": "seguió",
+        "él/ella": "siguió",
         "nosotros": "seguimos",
         "vosotros": "seguisteis",
-        "ellos/ellas/ustedes": "seguieron"
+        "ellos/ellas/ustedes": "siguieron"
       },
       "imperfect": {
         "yo": "seguía",
@@ -854,12 +854,12 @@
     },
     "encontrar": {
       "present": {
-        "yo": "encontro",
-        "tú": "encontras",
-        "él/ella": "encontra",
+        "yo": "encuentro",
+        "tú": "encuentras",
+        "él/ella": "encuentra",
         "nosotros": "encontramos",
         "vosotros": "encontráis",
-        "ellos/ellas/ustedes": "encontran"
+        "ellos/ellas/ustedes": "encuentran"
       },
       "preterite": {
         "yo": "encontré",
@@ -922,20 +922,20 @@
     },
     "venir": {
       "present": {
-        "yo": "veno",
-        "tú": "venes",
-        "él/ella": "vene",
+        "yo": "vengo",
+        "tú": "vienes",
+        "él/ella": "viene",
         "nosotros": "venimos",
         "vosotros": "venís",
-        "ellos/ellas/ustedes": "venen"
+        "ellos/ellas/ustedes": "vienen"
       },
       "preterite": {
-        "yo": "vení",
-        "tú": "veniste",
-        "él/ella": "venió",
-        "nosotros": "venimos",
-        "vosotros": "venisteis",
-        "ellos/ellas/ustedes": "venieron"
+        "yo": "vine",
+        "tú": "viniste",
+        "él/ella": "vino",
+        "nosotros": "vinimos",
+        "vosotros": "vinisteis",
+        "ellos/ellas/ustedes": "vinieron"
       },
       "imperfect": {
         "yo": "venía",
@@ -946,22 +946,22 @@
         "ellos/ellas/ustedes": "venían"
       },
       "future": {
-        "yo": "veniré",
-        "tú": "venirás",
-        "él/ella": "venirá",
-        "nosotros": "veniremos",
-        "vosotros": "veniréis",
-        "ellos/ellas/ustedes": "venirán"
+        "yo": "vendré",
+        "tú": "vendrás",
+        "él/ella": "vendrá",
+        "nosotros": "vendremos",
+        "vosotros": "vendréis",
+        "ellos/ellas/ustedes": "vendrán"
       }
     },
     "pensar": {
       "present": {
-        "yo": "penso",
-        "tú": "pensas",
-        "él/ella": "pensa",
+        "yo": "pienso",
+        "tú": "piensas",
+        "él/ella": "piensa",
         "nosotros": "pensamos",
         "vosotros": "pensáis",
-        "ellos/ellas/ustedes": "pensan"
+        "ellos/ellas/ustedes": "piensan"
       },
       "preterite": {
         "yo": "pensé",
@@ -990,7 +990,7 @@
     },
     "salir": {
       "present": {
-        "yo": "salo",
+        "yo": "salgo",
         "tú": "sales",
         "él/ella": "sale",
         "nosotros": "salimos",
@@ -1024,12 +1024,12 @@
     },
     "volver": {
       "present": {
-        "yo": "volvo",
-        "tú": "volves",
-        "él/ella": "volve",
+        "yo": "vuelvo",
+        "tú": "vuelves",
+        "él/ella": "vuelve",
         "nosotros": "volvemos",
         "vosotros": "volvéis",
-        "ellos/ellas/ustedes": "volven"
+        "ellos/ellas/ustedes": "vuelven"
       },
       "preterite": {
         "yo": "volví",
@@ -1092,7 +1092,7 @@
     },
     "conocer": {
       "present": {
-        "yo": "conoco",
+        "yo": "conozco",
         "tú": "conoces",
         "él/ella": "conoce",
         "nosotros": "conocemos",
@@ -1160,20 +1160,20 @@
     },
     "sentir": {
       "present": {
-        "yo": "sento",
-        "tú": "sentes",
-        "él/ella": "sente",
+        "yo": "siento",
+        "tú": "sientes",
+        "él/ella": "siente",
         "nosotros": "sentimos",
         "vosotros": "sentís",
-        "ellos/ellas/ustedes": "senten"
+        "ellos/ellas/ustedes": "sienten"
       },
       "preterite": {
         "yo": "sentí",
         "tú": "sentiste",
-        "él/ella": "sentió",
+        "él/ella": "sintió",
         "nosotros": "sentimos",
         "vosotros": "sentisteis",
-        "ellos/ellas/ustedes": "sentieron"
+        "ellos/ellas/ustedes": "sintieron"
       },
       "imperfect": {
         "yo": "sentía",
@@ -1262,12 +1262,12 @@
     },
     "contar": {
       "present": {
-        "yo": "conto",
-        "tú": "contas",
-        "él/ella": "conta",
+        "yo": "cuento",
+        "tú": "cuentas",
+        "él/ella": "cuenta",
         "nosotros": "contamos",
         "vosotros": "contáis",
-        "ellos/ellas/ustedes": "contan"
+        "ellos/ellas/ustedes": "cuentan"
       },
       "preterite": {
         "yo": "conté",
@@ -1296,15 +1296,15 @@
     },
     "empezar": {
       "present": {
-        "yo": "empezo",
-        "tú": "empezas",
-        "él/ella": "empeza",
+        "yo": "empiezo",
+        "tú": "empiezas",
+        "él/ella": "empieza",
         "nosotros": "empezamos",
         "vosotros": "empezáis",
-        "ellos/ellas/ustedes": "empezan"
+        "ellos/ellas/ustedes": "empiezan"
       },
       "preterite": {
-        "yo": "empezé",
+        "yo": "empecé",
         "tú": "empezaste",
         "él/ella": "empezó",
         "nosotros": "empezamos",
@@ -1372,7 +1372,7 @@
         "ellos/ellas/ustedes": "buscan"
       },
       "preterite": {
-        "yo": "buscé",
+        "yo": "busqué",
         "tú": "buscaste",
         "él/ella": "buscó",
         "nosotros": "buscamos",
@@ -1568,7 +1568,7 @@
     },
     "producir": {
       "present": {
-        "yo": "produco",
+        "yo": "produzco",
         "tú": "produces",
         "él/ella": "produce",
         "nosotros": "producimos",
@@ -1576,12 +1576,12 @@
         "ellos/ellas/ustedes": "producen"
       },
       "preterite": {
-        "yo": "producí",
-        "tú": "produciste",
-        "él/ella": "produció",
-        "nosotros": "producimos",
-        "vosotros": "producisteis",
-        "ellos/ellas/ustedes": "producieron"
+        "yo": "produje",
+        "tú": "produjiste",
+        "él/ella": "produjo",
+        "nosotros": "produjimos",
+        "vosotros": "produjisteis",
+        "ellos/ellas/ustedes": "produjeron"
       },
       "imperfect": {
         "yo": "producía",
@@ -1636,12 +1636,12 @@
     },
     "entender": {
       "present": {
-        "yo": "entendo",
-        "tú": "entendes",
-        "él/ella": "entende",
+        "yo": "entiendo",
+        "tú": "entiendes",
+        "él/ella": "entiende",
         "nosotros": "entendemos",
         "vosotros": "entendéis",
-        "ellos/ellas/ustedes": "entenden"
+        "ellos/ellas/ustedes": "entienden"
       },
       "preterite": {
         "yo": "entendí",
@@ -1670,20 +1670,20 @@
     },
     "pedir": {
       "present": {
-        "yo": "pedo",
-        "tú": "pedes",
-        "él/ella": "pede",
+        "yo": "pido",
+        "tú": "pides",
+        "él/ella": "pide",
         "nosotros": "pedimos",
         "vosotros": "pedís",
-        "ellos/ellas/ustedes": "peden"
+        "ellos/ellas/ustedes": "piden"
       },
       "preterite": {
         "yo": "pedí",
         "tú": "pediste",
-        "él/ella": "pedió",
+        "él/ella": "pidió",
         "nosotros": "pedimos",
         "vosotros": "pedisteis",
-        "ellos/ellas/ustedes": "pedieron"
+        "ellos/ellas/ustedes": "pidieron"
       },
       "imperfect": {
         "yo": "pedía",
@@ -1738,12 +1738,12 @@
     },
     "recordar": {
       "present": {
-        "yo": "recordo",
-        "tú": "recordas",
-        "él/ella": "recorda",
+        "yo": "recuerdo",
+        "tú": "recuerdas",
+        "él/ella": "recuerda",
         "nosotros": "recordamos",
         "vosotros": "recordáis",
-        "ellos/ellas/ustedes": "recordan"
+        "ellos/ellas/ustedes": "recuerdan"
       },
       "preterite": {
         "yo": "recordé",
